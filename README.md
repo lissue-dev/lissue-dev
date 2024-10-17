@@ -1,4 +1,5 @@
-# 🎮 Hey there, I'm @lissue-dev!
+# 🎮 @lissue-dev: Software Developer & Programmer
+
 
 - 💻 Languages & Skills:  
   - Primary: Java, C#  
