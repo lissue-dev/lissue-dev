@@ -17,6 +17,6 @@
   
 - 🚀 Current Focus: Advancing in C++ and improving plugin performance  
 - 🤝 Collaboration Interests: Open to working on Minecraft plugin projects, server optimization, or custom game modes  
-- 📫 Reach Me At: lissue-dev
+- 📫 Reach Me At: lissue.dev @discord
 
 - 🔗 Old Github: [Sours-Dev](https://github.com/Sours-Dev)
